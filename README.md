@@ -33,10 +33,6 @@ To run the code in the provided Jupyter notebook (`Crack-recognition.ipynb`), yo
 - PIL (Pillow)  
 - Other standard Python libraries: `os`, `time`, `copy`, `random`, `shutil`, `re`
 
-Install required packages with:
-
-```bash
-pip install torch torchvision numpy opencv-python matplotlib pillow
 
 ## Project Structure
 
